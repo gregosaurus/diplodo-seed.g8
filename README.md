@@ -8,9 +8,10 @@ Using sbt (0.13.13+):
 `sbt new gregosaurus/diplodo-seed`
 
 Using g8:
+
 `g8 gregosaurus/diplodo-seed`
 
-For more information about g8, please see [this]: http://www.foundweekends.org/giter8/
+For more information about g8, please see [this][http://www.foundweekends.org/giter8/]
 
 Template license
 ----------------
